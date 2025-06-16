@@ -1020,8 +1020,7 @@ section {
   width: 44px;
   height: 44px;
   position: relative;
-  top: 0px;
-  left: 39px;
+    
   background: #eef7ff;
   display: flex;
   justify-content: center;
@@ -1035,8 +1034,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   position: relative;
-  top: 0px;
-  left: 39px;
+  
   margin-bottom: 5px;
   color: #45505b;
 }
@@ -1046,8 +1044,7 @@ section {
   margin-bottom: 0;
   font-size: 14px;
   position: relative;
-  top: 0px;
-  left: 39px;
+  
   color: #728394;
 }
 
@@ -1167,8 +1164,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   position: relative;
-  top: 0px;
-  left: 45px;
+  
   font-family: "Poppins", sans-serif;
   padding: 0;
   margin: 0 0 15px 0;
@@ -1178,8 +1174,7 @@ section {
   font-size: 15;
   font-style: italic;
   position: relative;
-  top: 0px;
-  left: 45px;
+  
   padding: 0;
   margin: 0 0 40px 0;
 }
@@ -1210,15 +1205,11 @@ section {
 }
 
 #footer .copyright {
-  position: relative;
-  top: 0px;
-  left: 45px;
+  
   margin: 0 0 5px 0;
 }
 
 #footer .credits {
-  position: relative;
-  top: 0px;
-  left: 45px;
+ 
   font-size: 13px;
 }
